@@ -3,11 +3,10 @@ package pid.exercise.sort;
 import java.util.*;
 import java.util.stream.Collectors;
 
-/**
- * Provides methods for generating arrays of pseudorandom integers.
- *
- * @author Kwabena Asante-Poku
- */
+ /** Provides methods for generating arrays of pseudorandom integers.
+
+ @author Kwabena Asante-Poku*/
+
 public class IntArrayGenerator {
 
     static Random random = new Random();
